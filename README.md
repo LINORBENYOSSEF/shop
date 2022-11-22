@@ -1,5 +1,5 @@
 # shop
-This project written to clients in collage.
+This project written to clients in college.
 
 1. Building the Management of shop in MVC model using Java-fx
 
