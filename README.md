@@ -1,4 +1,6 @@
 # shop
+This project written to clients in collage.
+
 1. Building the Management of shop in MVC model using Java-fx
 
 ![image](https://user-images.githubusercontent.com/49592750/197213789-ac8feaac-97b5-4ce1-bd4a-70e8e54b78c4.png)
