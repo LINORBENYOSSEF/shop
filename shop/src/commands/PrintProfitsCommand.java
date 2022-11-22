@@ -1,4 +1,3 @@
-//David Halevi 305268153 Moshe samahov 205787229
 package commands;
 
 import javafx.application.Platform;
