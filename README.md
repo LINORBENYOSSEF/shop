@@ -17,7 +17,7 @@ This project written to clients in collage.
 4. design patterns:
 - Observer- sending promotions to customers
 - Singleton- creating only one object of sender type.
-- Iterator for reading and writing from the file
+- Iterator- reading and writing from the file
 
 *All windows have uniformity in design and the option to return to the main menu.
 
